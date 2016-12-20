@@ -1,6 +1,6 @@
 # Überschrift in Ebene 1
 
-### Überschrift in Ebene 3
+## Überschrift in Ebene 2
 
 *Kursiv*, **Fett** und ***Fett kursiv*** bzw.
 _Kursiv_, __Fett__ und ___Fett kursiv___
