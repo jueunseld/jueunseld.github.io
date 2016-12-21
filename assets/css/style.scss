@@ -2,15 +2,9 @@
 ---
 
 @import "jekyll-theme-minimal";
-/* 
-@font-face {
-    font-family: "Amatic";
-    src: url("assets/AmaticSC-Regular.ttf") format("truetype");
-} */
-
-@include font-face("Amatic", font-files("assets/AmaticSC-Regular.ttf"));   
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
 h1 {
-  font-family: "Amatic";
+  font-family: 'Architects Daughter', cursive;
   font-size: 32px;
 }
