@@ -3,10 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
-@font-face {
-    font-family: "Amatic SC";
-    src: url("assets/AmaticSC-Regular.ttf") /* TTF file for CSS3 browsers */
-}
+@include font-face(Amatic, assets/AmaticSC-Regular);
 
 h1 {
   font-family: "Amatic SC";
