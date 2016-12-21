@@ -5,6 +5,11 @@
 
 @include font-face(Amatic, assets/AmaticSC-Regular);
 
+@font-face {
+    font-family: "Samplino";
+    src: url("assets/AmaticSC-Regular.ttf") format("truetype");
+}
+
 h1 {
   font-family: "Amatic";
   font-size: 32px;
