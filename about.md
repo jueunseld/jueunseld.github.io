@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2016-12-23
+title:  "Jürgen Unseld"
 image: juergen.jpg
 ---
-
-**JÜRGEN UNSELD**
 
 1946 in Offenbach/M geboren
 
