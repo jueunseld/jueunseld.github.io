@@ -1,11 +1,11 @@
 ---
-layout: default
-title: About Long Haul
+layout: post
+title:  "Featured Image"
+date:   2016-12-23
+image: juergen.jpg
 ---
 
-#JÜRGEN UNSELD
-
-<img src="{{ '/assets/img/juergen.jpg' | prepend: site.baseurl }}" alt=""> 
+**JÜRGEN UNSELD**
 
 1946 in Offenbach/M geboren
 
