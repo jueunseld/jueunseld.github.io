@@ -4,7 +4,7 @@ title:  "Jürgen Unseld"
 image: juergen.jpg
 ---
 
-**1946**in Offenbach/M geboren
+**1946** in Offenbach/M geboren
 
 **1966 – 1973** Studium in Freiburg/Br.
 Kunstgeschichte, Philosophie, Germanistik,
