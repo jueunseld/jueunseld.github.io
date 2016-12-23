@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Gallerie
 images:
   - image_path: /assets/img/gallerie/hemden/H001.jpg
     title: Apple Pie
