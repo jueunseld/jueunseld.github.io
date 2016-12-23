@@ -8,11 +8,9 @@ image: juergen.jpg
 
 **1966 – 1973** Studium in Freiburg/Br.
 Kunstgeschichte, Philosophie, Germanistik,
-Geschichte; Bilder, Illustrationen und Kari-
-katuren für Zeitschriften
+Geschichte; Bilder, Illustrationen und Karikaturen für Zeitschriften
 
-**1976 – 2010** Lehrer am Hans-Thoma-Gym-
-nasium Lörrach
+**1976 – 2010** Lehrer am Hans-Thoma-Gymnasium Lörrach
 
 **Seit 1980** in Lörrach Tüllingen
 Atelier SCHEUNE im Zwetschgenweg 5
@@ -28,7 +26,7 @@ Galerie Artischocke, Lörrach 2001
 
 Meeraner Platz, Lörrach 2005
 
-Max – Planck – Haus   Tübingen 2006
+Max–Planck–Haus Tübingen 2006
 
 Bibliothek Weil 2007
 
