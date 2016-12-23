@@ -8,6 +8,10 @@ images:
     title: Betonhemd
   - image_path: /assets/img/galerie/hemden/H003.jpg
     title: Betonhemd
+  - image_path: /assets/img/galerie/hemden/H010.jpg
+    title: Betonhemd
+  - image_path: /assets/img/galerie/hemden/H009.jpg
+    title: Betonhemd
   - image_path: /assets/img/galerie/hemden/H004.jpg
     title: Betonhemd
   - image_path: /assets/img/galerie/hemden/H005.jpg
@@ -18,10 +22,7 @@ images:
     title: Betonhemd
   - image_path: /assets/img/galerie/hemden/H008.jpg
     title: Betonhemd
-  - image_path: /assets/img/galerie/hemden/H009.jpg
-    title: Betonhemd
-  - image_path: /assets/img/galerie/hemden/H010.jpg
-    title: Betonhemd
+
   - image_path: /assets/img/galerie/hemden/H011.jpg
     title: Betonhemd
   - image_path: /assets/img/galerie/hemden/H012.jpg
