@@ -16,8 +16,8 @@ navigation:
    url: /index.html
  - title: Lebenslauf
    url: /lebenslauf
- - title: Gallerie
-   url: /gallerie
+ - title: Galerie
+   url: /galerie
 
 social:
    github: jporzelt
