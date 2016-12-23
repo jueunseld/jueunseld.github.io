@@ -12,10 +12,10 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Aktuelles
    url: /index.html
  - title: Lebenslauf
-   url: /about
+   url: /lebenslauf
 
 social:
    github: jporzelt
