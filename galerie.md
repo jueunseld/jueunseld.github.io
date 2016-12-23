@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Galerie
 images:
   - image_path: /assets/img/galerie/hemden/H001.jpg
