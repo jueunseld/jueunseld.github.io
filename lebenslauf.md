@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Jürgen Unseld"
-
+image: juergen.jpg
 ---
-
-<img src="{{ '/assets/img/juergen.jpg' | prepend: site.baseurl }}" alt=""> 
 
 **1946** in Offenbach/M geboren
 
