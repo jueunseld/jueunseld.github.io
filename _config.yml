@@ -14,10 +14,10 @@ paginate: 5
 navigation:
  - title: Aktuelles
    url: /index.html
- - title: Lebenslauf
-   url: /lebenslauf
  - title: Galerie
    url: /galerie
+ - title: Lebenslauf
+   url: /lebenslauf
 
 social:
    github: jporzelt
