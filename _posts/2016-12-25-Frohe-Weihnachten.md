@@ -4,4 +4,5 @@ title:  "Frohe Weihnachten"
 date:   2016-12-25
 ---
 
-Liebe Freunde, frohe Weihanchten!
+Liebe Freunde und Besucher, 
+hier ensteht gerade der neue Internetauftritt von Jürgen Unseld.
