@@ -1,4 +1,5 @@
-![preview Long Haul](/preview.jpg)
+
+This page is based on a jekyll theme by [Brian Maier Jr.](http://brianmaierjr.com).
 
 Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
 
