@@ -1,7 +1,7 @@
 title: Jürgen Unseld
 description:
 
-url: https://jporzelt.github.io
+url: https://jueunseld.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,7 +20,7 @@ navigation:
    url: /lebenslauf
 
 social:
-   github: jporzelt
+   github: jueunseld
    twitter:
    facebook:
    email: jue.unseld@gmx.de
