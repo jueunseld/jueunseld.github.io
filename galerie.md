@@ -46,6 +46,8 @@ images:
 
 ---
 
+Gewebe mit Beton gefüllt. Stoff zu Stein erstarrt.
+
 <ul class="photo-gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title}}"/></li>
