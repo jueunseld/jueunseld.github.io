@@ -57,7 +57,7 @@ hemden:
 
 <ul class="photo-gallery">
   {% for image in page.bilder %}
-    <li><img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title}}"/></li>
+    <li><img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title}}"/>{{ image.title}}</li>
   {% endfor %}
 </ul>
 
