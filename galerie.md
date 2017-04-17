@@ -5,7 +5,9 @@ title: Galerie
 bilder:
   - image_path: /assets/img/galerie/Ohne Titel%2C Öl auf Leinwand 80 x 80.JPG
     title: Ohne Titel 2016 
-
+  - image_path: /assets/img/galerie/Ohne Titel, Öl auf Leinwand,150 x 140.JPG 
+    title: Ohne Titel 2016
+    
 hemden:
   - image_path: /assets/img/galerie/hemden/H001.jpg
     title: Betonhemd
