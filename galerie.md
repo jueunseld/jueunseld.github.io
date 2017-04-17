@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Galerie
-images:
+
+bilder:
+  - image_path: /assets/img/galerie/Ohne Titel%2C Öl auf Leinwand 80 x 80.JPG
+    title: Ohne Titel 2016 
+
+hemden:
   - image_path: /assets/img/galerie/hemden/H001.jpg
     title: Betonhemd
   - image_path: /assets/img/galerie/hemden/H002.jpg
@@ -46,10 +51,20 @@ images:
 
 ---
 
+# Bilder
+
+<ul class="photo-gallery">
+  {% for image in page.bilder %}
+    <li><img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
+
+# Beton
+
 Gewebe mit Beton gefüllt. Stoff zu Stein erstarrt.
 
 <ul class="photo-gallery">
-  {% for image in page.images %}
+  {% for image in page.hemden %}
     <li><img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
