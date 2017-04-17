@@ -53,7 +53,7 @@ hemden:
 
 ---
 
-# Bilder
+## Bilder
 
 <ul class="photo-gallery">
   {% for image in page.bilder %}
@@ -61,7 +61,7 @@ hemden:
   {% endfor %}
 </ul>
 
-# Beton
+## Beton
 
 Gewebe mit Beton gefüllt. Stoff zu Stein erstarrt.
 
