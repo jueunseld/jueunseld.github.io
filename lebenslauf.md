@@ -20,7 +20,7 @@ Ku.-Mi. Ba-Wü
 
 Einzel- und Gruppenausstellungen u.a. in Frankfurt/M, Offenbach, Hannover CEBIT, Freiburg, Staufen, Tübingen, Weil/Rh, Lörrach
 
-**Einzelausstellungen in der Region:**
+### Einzelausstellungen in der Region:
 
 Galerie Artischocke, Lörrach 2001
 
@@ -30,7 +30,7 @@ Max–Planck–Haus Tübingen 2006
 
 Bibliothek Weil 2007
 
-**Gruppenausstellungen in der Region:**
+### Gruppenausstellungen in der Region:
 
 Villa Aichele „Aspekte zur Individualität“ 2003/04
 
