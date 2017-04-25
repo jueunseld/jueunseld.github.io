@@ -7,7 +7,8 @@ bilder:
     title: Ohne Titel 2016, 80 x 80 
   - image_path: /assets/img/galerie/Ohne Titel, Öl auf Leinwand,150 x 140.JPG 
     title: Ohne Titel 2016, 150 x 140
-    
+  - image_path: /assets/img/galerie/Ohne Titel, Öl auf Leinwand,80 x 65.JPG 
+    title: Und ach der Himmel so blau (3) 2016, 80 x 65  
 hemden:
   - image_path: /assets/img/galerie/hemden/H001.jpg
     title: Betonhemd
