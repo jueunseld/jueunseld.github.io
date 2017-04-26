@@ -3,12 +3,12 @@ layout: post
 title: Galerie
 
 bilder:
-  - image_path: /assets/img/galerie/Ohne Titel%2C Öl auf Leinwand 80 x 80.JPG
+  - image_path: /assets/img/galerie/OhneTitel80x80.jpg
     title: Ohne Titel 2016, 80 x 80 
-  - image_path: /assets/img/galerie/Ohne Titel, Öl auf Leinwand,150 x 140.JPG 
+  - image_path: /assets/img/galerie/OhneTitel150x140.jpg
     title: Ohne Titel 2016, 150 x 140
-  - image_path: /assets/img/galerie/Ohne Titel, Öl auf Leinwand,80 x 65.JPG 
-    title: Und ach der Himmel so blau (3) 2016, 80 x 65  
+  - image_path: /assets/img/galerie/IMG_1894bearb.jpg
+    title: Und ach der Himmel so blau (3) 2016, 80 x 65
 hemden:
   - image_path: /assets/img/galerie/hemden/H001.jpg
     title: Betonhemd
