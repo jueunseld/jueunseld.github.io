@@ -24,7 +24,7 @@ Einzel- und Gruppenausstellungen u.a. in Frankfurt/M, Offenbach, Hannover CEBIT,
 
 Galerie Artischocke, Lörrach 2001
 
-Meeraner Platz, Lörrach 2005
+Jürgen Unseld, Bilder und Objekte, INTERIMSRÄUME, Meeraner Platz, Lörrach 2005
 
 Max–Planck–Haus Tübingen 2006
 
