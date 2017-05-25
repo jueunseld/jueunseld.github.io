@@ -14,7 +14,7 @@ title: Galerie
             {% unless image.basename contains 'thumbnail' %}
                 <li>
                     <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="Hemden" title="{{ image.basename }}">
-                        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
+                        <img src="{{ site.baseurl }}{{ image.path }}-thumbnail.jpg" alt="{{ image.basename }}" />
                     </a>
                 </li>
             {% endunless %}
@@ -32,7 +32,7 @@ Gewebe mit Beton gefüllt. Stoff zu Stein erstarrt.
             {% unless image.basename contains 'thumbnail' %}
                 <li>
                     <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="Hemden" title="{{ image.basename }}">
-                        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
+                        <img src="{{ site.baseurl }}{{ image.path }}-thumbnail.jpg" alt="{{ image.basename }}" />
                     </a>
                 </li>
             {% endunless %}
