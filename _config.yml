@@ -1,28 +1,27 @@
+# Site settings
 title: Jürgen Unseld
-description:
-
+email: jue.unseld@gmx.de
 url: https://jueunseld.github.io
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+description: Persönliche Seite von Jürgen Unseld. Künstler aus Lörrach.
 
-markdown: kramdown
-highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
 
-navigation:
- - title: Aktuelles
-   url: /index.html
- - title: Galerie
-   url: /galerie
- - title: Lebenslauf
-   url: /lebenslauf
+# Footer settings
+footer: juergenunseld.de
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-   github: jueunseld
-   twitter:
-   facebook:
-   email: jue.unseld@gmx.de
+  - title: github
+    url: https://github.com/jueunseld
 
-google_analytics:
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "build", "gradle"]
+
+encoding: utf-8
+

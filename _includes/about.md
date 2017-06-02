@@ -34,3 +34,13 @@ Galerie Ars Nova „Sichtweisen“ 2005
 Museum am Burghof VBK 2012
 
 Museum am Burghof „Hülle und Fülle“ 2016
+
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                
+            </div>
+        </div>
+    </section>

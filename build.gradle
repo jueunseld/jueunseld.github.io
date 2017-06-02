@@ -1,0 +1,31 @@
+
+buildscript {
+  repositories {
+    jcenter()
+  }
+
+  dependencies {
+    classpath "com.github.jruby-gradle:jruby-gradle-plugin:1.4.0"
+  }
+}
+
+apply plugin: 'com.github.jruby-gradle.base'
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  jrubyExec 'rubygems:jekyll:3.4.3'
+}
+
+task "jekyll-build"(type: com.github.jrubygradle.JRubyExec) {
+  script "jekyll"
+  scriptArgs "build"
+}
+
+task "jekyll-serve"(type: com.github.jrubygradle.JRubyExec) {
+  script "jekyll"
+  scriptArgs "serve"
+}
+
