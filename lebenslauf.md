@@ -5,11 +5,14 @@ title:  "Jürgen Unseld"
 ---
 
 **1946** in Offenbach/M geboren
+
 **1966 – 1973** Studium in Freiburg/Br.
 Kunstgeschichte, Philosophie, Germanistik,
 Geschichte; Bilder, Illustrationen und Karikaturen für Zeitschriften
+
 **Seit 1980** in Lörrach Tüllingen
 Atelier SCHEUNE im Zwetschgenweg 5
+
 **1989 – 1991** Freistellung zur Kunstausbildung
 Ku.-Mi. Ba-Wü
 
