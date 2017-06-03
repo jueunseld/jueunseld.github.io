@@ -18,3 +18,13 @@ Begrüßung von Seiten des Landkreises: Marion Dammann, Landrätin
 
 Einführung durch Friederike  Völker
 
+So. 	02.7.2017 16 Uhr 	 Künstlergespräch
+So. 	16.7.2017 16 Uhr 	 Finissage
+		
+		
+		
+		 Städtische Galerie im Stapflehus,
+Bläsiring 10, D–79 576 Weil am Rhein
+Geöffnet: Samstag 15–18 Uhr, Sonntag 14–18 Uhr
+
+
