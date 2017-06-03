@@ -9,6 +9,8 @@
 .photo-gallery li {
 	display: inline-block;
 	width: 32%;
+	height: 200px;
+	overflow: hidden;
 }
 
 .photo-gallery li img {
