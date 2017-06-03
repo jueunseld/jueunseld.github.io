@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jürgen Unseld"
+title: 
 
 ---
 
