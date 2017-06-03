@@ -18,6 +18,8 @@ Ku.-Mi. Ba-Wü
 
 
 
+
+
 Seit 1988 Einzel- und Gruppenausstellungen u.a. in Frankfurt/M, Offenbach, Hannover CEBIT, Freiburg, Staufen, Tübingen, Weil/Rh, Lörrach
 
 #### Einzelausstellungen
