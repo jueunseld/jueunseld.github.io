@@ -40,8 +40,6 @@ Museum am Burghof „Hülle und Fülle“ 2016
 
 Museum am Burghof "Bild vom Bild" 2012
 
-Max–Planck–Haus Tübingen 2006
-
 Galerie Ars Nova „Sichtweisen“ 2005
 
 Villa Aichele „Aspekte zur Individualität“ 2003/04
