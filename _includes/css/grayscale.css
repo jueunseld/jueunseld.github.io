@@ -252,6 +252,7 @@ a:focus {
     color: #fff;
     background: url(/images/dark_mosaic2.png) repeat 0 0;
     background-color: {{ site.color.primary-dark }};
+    padding: 5rem 0 5rem 0;
 }
 
 .btn {
