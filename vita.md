@@ -36,6 +36,8 @@ Galerie Artischocke, Lörrach 2001
 
 #### Gruppenausstellungen
 
+Stapflehus Weil am Rhein, Kunst Südwest "Reflection", 17. Juni - 16. Juli 2017
+
 Museum am Burghof „Hülle und Fülle“ 2016
 
 Museum am Burghof "Bild vom Bild" 2012
