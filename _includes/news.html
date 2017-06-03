@@ -2,45 +2,33 @@
     <section id="news" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-**1946** in Offenbach/M geboren
-
-**1966 – 1973** Studium in Freiburg/Br.
-Kunstgeschichte, Philosophie, Germanistik,
-Geschichte; Bilder, Illustrationen und Karikaturen für Zeitschriften
-
-**Seit 1980** in Lörrach Tüllingen
-Atelier SCHEUNE im Zwetschgenweg 5
-
-**1989 – 1991** Freistellung zur Kunstausbildung
-Ku.-Mi. Ba-Wü
-
-**2005 bis heute** jährlich mehrfach Leiter von Kunstprojekten an
-der Landesakademie Schloss Rotenfels
-
-**Seit 1988** Einzel- und Gruppenausstellungen u.a. in Frankfurt/M, Offenbach, Hannover CEBIT, Freiburg, Staufen, Tübingen, Weil/Rh, Lörrach
-
-#### Einzelausstellungen
-
-Bibliothek Weil 2007
-
-Max-Planck-Haus, Tübingen, 2006
-
-Jürgen Unseld, Bilder und Objekte, INTERIMSRÄUME, Meeraner Platz, Lörrach 2005
-
-Galerie Artischocke, Lörrach 2001
-
-
-#### Gruppenausstellungen
-
-Stapflehus Weil am Rhein, Kunst Südwest "Reflection", 17. Juni - 16. Juli 2017
-
-Museum am Burghof „Hülle und Fülle“ 2016
-
-Museum am Burghof "Bild vom Bild" 2012
-
-Galerie Ars Nova „Sichtweisen“ 2005
-
-Villa Aichele „Aspekte zur Individualität“ 2003/04
+                {% for page in site.posts %}
+                {% if page.type == "news" %}
+                <div class="news">
+                    <h4>
+                        {% assign m = page.date | date: "%-m" %}
+                        {{ page.date | date: "%-d" }}
+                        {% case m %}
+                        {% when '1' %}Januar
+                        {% when '2' %}Februar
+                        {% when '3' %}März
+                        {% when '4' %}April
+                        {% when '5' %}Mai
+                        {% when '6' %}Juni
+                        {% when '7' %}Juli
+                        {% when '8' %}August
+                        {% when '9' %}September
+                        {% when '10' %}Oktober
+                        {% when '11' %}November
+                        {% when '12' %}Dezember
+                        {% endcase %}
+                        {{ page.date | date: "%Y" }}
+                    </h4>
+                    <h1 class="newsTitle">{{ page.title }}</h1>
+                    {{ page.content | markdownify }}
+                </div>
+                {% endif %}
+                {% endfor %}
             </div>
         </div>
     </section>
