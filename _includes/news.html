@@ -24,8 +24,10 @@
                         {% endcase %}
                         {{ page.date | date: "%Y" }}
                     </h4>
-                    <h1 class="newsTitle">{{ page.title }}</h1>
-                    {{ page.content | markdownify }}
+                    <h1 class="news-title">{{ page.title }}</h1>
+                    <div class="news-content">
+                        {{ page.content | markdownify }}
+                    </div>
                 </div>
                 {% endif %}
                 {% endfor %}
