@@ -16,8 +16,8 @@ navigation:
    url: /index.html
  - title: Galerie
    url: /galerie
- - title: Lebenslauf
-   url: /lebenslauf
+ - title: Vita
+   url: /vita
 
 social:
    github: jueunseld
