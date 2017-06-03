@@ -5,7 +5,7 @@ date:   2017-06-03
 ---
 
 <p class="intro">
-**Zwei Kunstvereine, eine Ausstellung: **  
+Zwei Kunstvereine, eine Ausstellung: 
 20 ausgewählte Künstlerinnen und Künstler der Region Lörrach zeigen Malerei, Fotografie, Skulptur und Installation zum Thema „Reflection“
 </p>
 
