@@ -2,7 +2,6 @@
 layout: post
 title: 
 
----/home/juergen/Schreibtisch/juergen.jpg
 
 **1946** in Offenbach/M geboren
 
