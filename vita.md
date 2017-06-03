@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-
+---
 
 **1946** in Offenbach/M geboren
 
