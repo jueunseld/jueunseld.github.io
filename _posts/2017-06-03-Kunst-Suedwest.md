@@ -1,5 +1,6 @@
 ---
 type: news
+published: true
 title: "Kunst Südwest 7.06 - 16.07.2017"
 ---
 Zwei Kunstvereine, eine Ausstellung: 
