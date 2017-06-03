@@ -16,7 +16,8 @@ Atelier SCHEUNE im Zwetschgenweg 5
 **1989 – 1991** Freistellung zur Kunstausbildung
 Ku.-Mi. Ba-Wü
 
-
+2005 bis heute jährlich mehrfach Leiter von Kunstprojekten an
+der Landesakademie Schloss Rotenfels
 
 
 
@@ -37,7 +38,7 @@ Galerie Artischocke, Lörrach 2001
 
 Museum am Burghof „Hülle und Fülle“ 2016
 
-Museum am Burghof VBK 2012
+Museum am Burghof "Bild vom Bild" 2012
 
 Max–Planck–Haus Tübingen 2006
 
