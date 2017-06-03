@@ -1,6 +1,5 @@
 # Site settings
 title: Jürgen Unseld
-email: jue.unseld@gmx.de
 url: https://jueunseld.github.io
 description: Persönliche Seite von Jürgen Unseld. Künstler aus Lörrach.
 
@@ -14,7 +13,11 @@ footer: juergenunseld.de
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: envelope
+    label: e-mail
+    url: mailto:jue.unseld@gmx.de
   - title: github
+    label: github
     url: https://github.com/jueunseld
 
 # Build settings
