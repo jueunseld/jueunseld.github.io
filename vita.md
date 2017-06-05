@@ -37,11 +37,13 @@ Galerie Artischocke, Lörrach 2001
 
 Stapflehus Weil am Rhein, Kunst Südwest "Reflection", 17. Juni - 16. Juli 2017
 
-Museum am Burghof „Hülle und Fülle“ 2016
+Dreiländermuseum „Hülle und Fülle“ 2016
 
 Museum am Burghof "Bild vom Bild" 2012
 
 Galerie Ars Nova „Sichtweisen“ 2005
+
+Museum am Burghof "pARTners" 2004
 
 Villa Aichele „Aspekte zur Individualität“ 2003/04
 
