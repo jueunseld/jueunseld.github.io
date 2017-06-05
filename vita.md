@@ -41,9 +41,9 @@ Dreiländermuseum „Hülle und Fülle“ 2016
 
 Museum am Burghof "Bild vom Bild" 2012
 
-Galerie Ars Nova „Sichtweisen“ 2005
+Museum am Burghof "pARTners" 2006
 
-Museum am Burghof "pARTners" 2004
+Galerie Ars Nova „Sichtweisen“ 2005
 
 Villa Aichele „Aspekte zur Individualität“ 2003/04
 
