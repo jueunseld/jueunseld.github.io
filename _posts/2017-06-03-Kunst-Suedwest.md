@@ -16,7 +16,7 @@ Mona Ardeleanu, Reinhard Bombsch, Peter Bosshart, Katharina Fekonja, Monika Gret
 
 Begrüßung von Seiten des Landkreises: Marion Dammann, Landrätin
 
-Einführung durch Friederike  Völker
+Einführung durch Friederike Völker
 
 So. 	02.7.2017 16 Uhr 	 Künstlergespräch
 
