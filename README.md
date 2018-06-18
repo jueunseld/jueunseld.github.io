@@ -7,7 +7,7 @@ Siehe: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
 ## Neuigkeiten (_posts)
-Neuen Eintrag anlegen unter _posts mit "Create new file". Name sollte dem Pattern yyyy-MM-dd-Ein-sprechender-Titel.md (z.B. 2017-06-03-Kunst-Suedwest.md) entsprechen.
+Neuen Eintrag anlegen unter dem Ordner **_posts** mit "Create new file". Der Name sollte dem Pattern yyyy-MM-dd-Ein-sprechender-Titel.md (z.B. 2017-06-03-Kunst-Suedwest.md) entsprechen.
 Als ersten braucht die Datei einen sogenannten "Front Matter"
 ```
 ---
@@ -16,14 +16,33 @@ published: true
 title: "Kunst Südwest 7.06 - 16.07.2017"
 ---
 ```
-Der Titel kann beliebig gewählt werden. Der Typ muss "news" sein und published steuert mit den Werten "true" oder "false" ob der Eintrag veröffentlicht wird.
+Der _title_ kann beliebig gewählt werden. Der _type_ muss "news" sein und _published_ steuert mit den Werten "true" oder "false" ob der Eintrag veröffentlicht wird.
 
 Nach einem Zeilenumbruch kann dann beliebiger Text (formatiert mit Markdown) folgen.
 
-## Galerie (_gallery)
+## Vita (_posts)
+Im Ordner **_posts** die Datei _2017-06-04-vita.md_ bearbeiten. Den "Front Matter" nicht verändern.
 
+## Galerie (gallery)
+Neue Bilder für die Galerie können unter dem Ordner **gallery** hoch geladen werden (Upload files).
+Es brauch immer zwei Versionen eines Bildes. Eine für die Vorschau und eines für doe große Ansicht.
+Diese müssen dem folgenden Names-Pattern entsprechen:
+```
+Irgend ein Bildname.jpg
+Irgend ein Bildname.jpg-thumbnail.jpg
+```
+Wobei die Version die auf "-thumbnail.jpg" endet die kleine Version ist und in der Breite nicht mehr als 250px haben darf (Höhe entsprechen). 
+Die große Version sollte die Maße 1920x1080px nicht überschreiten. 
+
+Die Bilder können am Besten mit dem Programm Gimp oder gThumb skaliert werden.
 
 ## Sonstige Bilder (_images)
+Unter dem Ordner **_images** befinden sich die sonstige Bilder. Zum Beispiel:
+```
+intro-bg.jpg (Hintergrung)
+juergen.jpg (Profilfoto)
+```
+Diese bei Bedarf am Besten 1:1 ersetzen.
 
 
 ## Todos
