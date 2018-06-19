@@ -1,6 +1,6 @@
 ---
 type: news
-published: true
+published: false
 title: "Ankündigung 08. September"
 ---
 
