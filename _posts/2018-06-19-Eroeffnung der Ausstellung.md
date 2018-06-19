@@ -1,5 +1,5 @@
 ---
 type: news
-published: true
+published: false
 title: Ausstellungseröffnung im September
 ---
