@@ -9,7 +9,11 @@ Siehe: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
 ## Neuigkeiten (_posts)
-Neuen Eintrag anlegen unter dem Ordner **_posts** mit "Create new file". Der Name sollte dem Pattern yyyy-MM-dd-Ein-sprechender-Titel.md (z.B. 2017-06-03-Kunst-Suedwest.md) entsprechen.
+Neuen Eintrag anlegen unter dem Ordner **_posts** mit "Create new file". Der Name sollte dem Pattern 
+```
+yyyy-MM-dd-Ein-sprechender-Titel.md (z.B. 2017-06-03-Kunst-Suedwest.md) 
+```
+entsprechen.
 
 **Als ersten braucht die Datei einen sogenannten "Front Matter"**
 ```
@@ -28,7 +32,7 @@ Im Ordner **_posts** die Datei _2017-06-04-vita.md_ bearbeiten. Den "Front Matte
 
 ## Galerie (gallery)
 Neue Bilder für die Galerie können unter dem Ordner **gallery** hoch geladen werden (Upload files).
-Es brauch immer zwei Versionen eines Bildes. Eine für die Vorschau und eines für doe große Ansicht.
+Es brauch immer zwei Versionen eines Bildes. Eine für die Vorschau und eines für die große Ansicht.
 Diese müssen dem folgenden Names-Pattern entsprechen:
 ```
 Irgend ein Bildname.jpg
