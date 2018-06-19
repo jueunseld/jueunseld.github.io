@@ -3,7 +3,7 @@ Inhalte Anpassen
 
 Um Inhalte anzupassen muss man sich erst einmal einloggen (und natürlich die entprechenden Berechtigungen haben).
 
-## Syntax 
+## Textgestaltung 
 Inhalte werden mit Markdown formatiert. Dies ist eine einfache Auszeichnungssyntax.
 Siehe: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
