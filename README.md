@@ -10,7 +10,8 @@ Siehe: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ## Neuigkeiten (_posts)
 Neuen Eintrag anlegen unter dem Ordner **_posts** mit "Create new file". Der Name sollte dem Pattern yyyy-MM-dd-Ein-sprechender-Titel.md (z.B. 2017-06-03-Kunst-Suedwest.md) entsprechen.
-Als ersten braucht die Datei einen sogenannten "Front Matter"
+
+**Als ersten braucht die Datei einen sogenannten "Front Matter"**
 ```
 ---
 type: news
