@@ -1,9 +1,17 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-8 col-lg-offset-2" itemscope itemtype="http://schema.org/Person">
                 <h2>Vita</h2>
-                <p><img src="{{ site.baseurl }}images/juergen.jpg" alt="Juergen" /></p>
+                <p hidden itemprop="name">Jürgen Unseld</p>
+                <p hidden itemprop="jobTitle">Künstler und Kunsterzieher</p>
+                <p hidden itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    <p hidden itemprop="streetAddress">Zwetschgenweg 5</p>
+                    <p hidden itemprop="postalCode">79539</p>
+                    <p hidden itemprop="addressLocality">Lörrach</p>
+                    <p hidden itemprop="addressCountry">DE</p>
+                </p>
+                <p><img src="{{ site.baseurl }}images/juergen.jpg" alt="Juergen" itemprop="image"/></p>
                 <div class="vita">
                 {% for page in site.posts %}
                 {% if page.type == "vita" %}
