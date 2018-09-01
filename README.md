@@ -20,10 +20,12 @@ entsprechen.
 ---
 type: news
 published: true
+hideDate: false
 title: "Kunst Südwest 7.06 - 16.07.2017"
 ---
 ```
 Der _title_ kann beliebig gewählt werden. Der _type_ muss "news" sein und _published_ steuert mit den Werten "true" oder "false" ob der Eintrag veröffentlicht wird.
+_hideDate_ steuert mit den Werten "true" oder "false" ob ein Datum über dem Eintrag angezeigt wird.
 
 Nach einem Zeilenumbruch kann dann beliebiger Text (formatiert mit Markdown) folgen.
 

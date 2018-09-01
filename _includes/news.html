@@ -5,6 +5,7 @@
                 {% for page in site.posts %}
                 {% if page.type == "news" %}
                 <div class="news">
+                    {% if page.hideDate != true %}
                     <h4>
                         {% assign m = page.date | date: "%-m" %}
                         {{ page.date | date: "%-d" }}
@@ -24,6 +25,7 @@
                         {% endcase %}
                         {{ page.date | date: "%Y" }}
                     </h4>
+                    {% endif %}
                     <h1 class="news-title">{{ page.title }}</h1>
                     <div class="news-content">
                         {{ page.content | markdownify }}
