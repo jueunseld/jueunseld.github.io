@@ -1,6 +1,6 @@
 ---
 type: news
-published: true
+published: false
 hideDate: true
 title: "Neue Bilder in neuen Räumen - Vernissage im September"
 ---
