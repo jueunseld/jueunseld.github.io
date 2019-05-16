@@ -4,9 +4,9 @@
             <div class="col-lg-8 col-lg-offset-2">
                 {% for page in site.posts %}
                 {% if page.type == "news" %}
-                <div class="news">
+                <article class="news">
                     {% if page.hideDate != true %}
-                    <h4>
+                    <div class="publication-date">
                         {% assign m = page.date | date: "%-m" %}
                         {{ page.date | date: "%-d" }}
                         {% case m %}
@@ -24,13 +24,13 @@
                         {% when '12' %}Dezember
                         {% endcase %}
                         {{ page.date | date: "%Y" }}
-                    </h4>
+                    </div>
                     {% endif %}
                     <h1 class="news-title">{{ page.title }}</h1>
                     <div class="news-content">
                         {{ page.content | markdownify }}
                     </div>
-                </div>
+                </article>
                 {% endif %}
                 {% endfor %}
             </div>
