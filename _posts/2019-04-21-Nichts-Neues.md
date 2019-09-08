@@ -1,6 +1,6 @@
 ---
 type: news
-published: true
+published: false
 hideDate: false
 title: "Die nächste Ausstellung ist in Vorbereitung"
 ---
