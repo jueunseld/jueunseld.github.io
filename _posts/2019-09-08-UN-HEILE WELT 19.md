@@ -8,11 +8,8 @@ Ich freue mich in der
 
 GALERIEimZWETSCHGENWEG 
 
-zwei bedeutende Künstler der Region vorstellen zu können. Unter dem Titel
-
-**UN-HEILE WELT**
-
-zeigen Konstantin Weber und Bernd Goering miteinander kommunizierende Werke.
+zwei bedeutende Künstler der Region vorstellen zu können.\\
+Unter dem Titel **UN-HEILE WELT** zeigen **Konstantin Weber** und **Bernd Goering** miteinander kommunizierende Werke.
 Die Ausstellung mit Bildern von K. Weber und Objekten von B. Goering ist vom 21. September - 26. Oktober 2019 geöffnet.
 
 Sa + So   14 - 18 Uhr
