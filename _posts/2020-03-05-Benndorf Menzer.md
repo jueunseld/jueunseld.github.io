@@ -1,6 +1,6 @@
 ---
 type: news
-published: false
+published: true
 hideDate: true
 title: ""
 ---
@@ -11,7 +11,7 @@ GALERIEimZWETSCHGENWEG
 zwei bedeutende Künstlerinnen der Region vorstellen zu können.
 
 **Hanna Benndorf** und **Gabriele Menzer** zeigen ihre neuesten Werke
-Aus nahe liegenden Gründen ist die Ausstellungseröffnung verschioben worden.
+Aus nahe liegenden Gründen ist die Ausstellungseröffnung verschoben worden.
 Wir hoffen auf eine Vernissage im September.
 <br>
 <figure>
