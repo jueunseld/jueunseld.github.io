@@ -11,11 +11,8 @@ GALERIEimZWETSCHGENWEG
 zwei bedeutende Künstlerinnen der Region vorstellen zu können.
 
 **Hanna Benndorf** und **Gabriele Menzer** zeigen ihre neuesten Werke
-in der Zeit vom 27. Juni bis 26. Juli 2020.
-
-Vernissage Sa., 27. Juni, 18 Uhr\\
-Finissage So., 26. Juli, 17 Uhr
-
+Aus nahe liegenden Gründen ist die Ausstellungseröffnung verschioben worden.
+Wir hoffen auf eine Vernissage im September.
 <br>
 <figure>
     <img src="{{ site.baseurl }}images/Hanna Benndorf, Ohne Titel, Graphit, Kohle, Acryl auf Papier, 2020.jpg" alt="Benndorf" itemprop="image"/>
