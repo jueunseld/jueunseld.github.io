@@ -17,7 +17,7 @@ zwei bedeutende Künstlerinnen der Region vorstellen zu können.
 Aus nahe liegenden Gründen ist die Ausstellungseröffnung verschoben worden.
 
 
-Wir hoffen auf eine Vernissage im September.
+Wir hoffen auf eine Vernissage im Juni 2021.
 <br>
 <figure>
     <img src="{{ site.baseurl }}images/Hanna Benndorf, Ohne Titel, Graphit, Kohle, Acryl auf Papier, 2020.jpg" alt="Benndorf" itemprop="image"/>
