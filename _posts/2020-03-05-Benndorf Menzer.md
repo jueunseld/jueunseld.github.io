@@ -20,11 +20,11 @@ Aus nahe liegenden Gründen ist die Ausstellungseröffnung verschoben worden.
 Wir hoffen auf eine Vernissage im Juni 2021.
 <br>
 <figure>
-    <img src="{{ site.baseurl }}images/Hanna Benndorf, Ohne Titel, Graphit, Kohle, Acryl auf Papier, 2020.jpg" alt="Benndorf" itemprop="image"/>
-	<figcaption>Hanna Benndorf, Ohne Titel, Graphit, Kohle, Acryl auf Papier, 2020</figcaption>
+    <img src="{{ site.baseurl }}images/Hanna Benndorf.JPG" alt="Benndorf" itemprop="image"/>
+	<figcaption>Hanna Benndorf</figcaption>
 </figure><br>
 <figure>
-    <img src="{{ site.baseurl }}images/Gabriele Menzer, ArtWalkBild III, 2019.jpg" alt="Menzer" itemprop="image"/>
-	<figcaption>Gabriele Menzer, ArtWalkBild III, 2019</figcaption>
+    <img src="{{ site.baseurl }}images/Gabriele Menzer.JPG" alt="Menzer" itemprop="image"/>
+	<figcaption>Gabriele Menzer</figcaption>
 </figure>
 
