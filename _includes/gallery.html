@@ -7,9 +7,11 @@
                     {% for image in site.static_files %}
                     {% if image.path contains '/gallery/' %}
                     {% unless image.basename contains 'thumbnail' %}
-                    <div>
-                        <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="Galerie" title="{{ image.basename }}">
-                            <img src="{{ site.baseurl }}{{ image.path }}-thumbnail.jpg" alt="{{ image.basename }}" />
+                    <div itemscope itemtype="https://schema.org/Painting">
+                        <data hidden itemprop="name">{{ image.basename }}</data>
+                        <data hidden itemprop="creator">Jürgen Unseld</data>
+                        <a itemprop="url" href="{{ site.baseurl }}{{ image.path }}" data-lightbox="Galerie" title="{{ image.basename }}">
+                            <img itemprop="thumbnailUrl" src="{{ site.baseurl }}{{ image.path }}-thumbnail.jpg" alt="{{ image.basename }}" />
                         </a>
                     </div>
                     {% endunless %}
