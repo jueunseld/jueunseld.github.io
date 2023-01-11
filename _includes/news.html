@@ -4,9 +4,9 @@
             <div class="col-lg-8 col-lg-offset-2">
                 {% for page in site.posts %}
                 {% if page.type == "news" %}
-                <article class="news">
+                <article class="news" itemscope itemtype="https://schema.org/NewsArticle">
                     {% if page.hideDate != true %}
-                    <div class="publication-date">
+                    <div class="publication-date" itemprop="datePublished">
                         {% assign m = page.date | date: "%-m" %}
                         {{ page.date | date: "%-d" }}
                         {% case m %}
@@ -26,7 +26,8 @@
                         {{ page.date | date: "%Y" }}
                     </div>
                     {% endif %}
-                    <h1 class="news-title">{{ page.title }}</h1>
+                    <data hidden itemprop="author">Jürgen Unseld</data>
+                    <h1 class="news-title" itemprop="headline">{{ page.title }}</h1>
                     <div class="news-content">
                         {{ page.content | markdownify }}
                     </div>
