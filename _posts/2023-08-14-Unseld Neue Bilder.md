@@ -6,7 +6,7 @@ title: |-
   Neue Bilder 2019 – 2023  
 ---
 
-GALERIEimZWETSCHGENWEG\\
+GALERIEimZWETSCHGENWEG
 
 Wir laden ein zum Besuch unserer Ausstellung
 
