@@ -28,4 +28,4 @@ Bilder von **MARGA GOLZ** und **INSA HOFFMANN** zeigen zu können.
 </figure>
 <br>
 
-Voraussichtliche Ausstellungszeit SA/SO Anfang Juni bis Anfang Juli
+Voraussichtliche Ausstellungszeit SA/SO Anfang Juni bis Anfang Juli.
