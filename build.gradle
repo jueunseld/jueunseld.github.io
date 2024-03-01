@@ -1,30 +1,35 @@
 
-buildscript {
-  repositories {
-    jcenter()
-  }
-
-  dependencies {
-    classpath "com.github.jruby-gradle:jruby-gradle-plugin:2.0.1"
-  }
+plugins {
+  id "com.github.jruby-gradle.base" version "2.0.2"
 }
-
-apply plugin: 'com.github.jruby-gradle.base'
 
 repositories {
-  jcenter()
+  mavenLocal()
+  mavenCentral()
+  ruby.gems()
 }
+
+import com.github.jrubygradle.JRubyExec
 
 dependencies {
-  jrubyExec 'rubygems:jekyll:4.2.0'
+  gems "rubygems:jekyll:4.3.3"
+//  gems "rubygems:jekyll-sass-converter:3.0.0"
+  gems "rubygems:sass-embedded:1.54.9"
+  gems "rubygems:http_parser.rb:0.6.0"
+//  gems "rubygems:webrick:1.7.0"
+//  gems "rubygems:minima:2.5.1"
 }
 
-task "jekyll-build"(type: com.github.jrubygradle.JRubyExec) {
+jruby {
+  jrubyVersion = '9.4.5.0'
+}
+
+task "jekyll-build"(type: JRubyExec) {
   script "jekyll"
   scriptArgs "build"
 }
 
-task "jekyll-serve"(type: com.github.jrubygradle.JRubyExec) {
+task "jekyll-serve"(type: JRubyExec) {
   script "jekyll"
   scriptArgs "serve"
 }
