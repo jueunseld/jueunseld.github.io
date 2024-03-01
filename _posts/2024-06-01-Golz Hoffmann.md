@@ -2,7 +2,7 @@
 type: news
 published: true
 hideDate: true
-title: ""
+title: ""  
 ---
 
 Es ist mir eine Freude in der GALERIEimZWETSCHGENWEG in diesem Sommer
