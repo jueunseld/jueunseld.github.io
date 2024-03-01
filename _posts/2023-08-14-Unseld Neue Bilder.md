@@ -1,6 +1,6 @@
 ---
 type: news
-published: false
+published: true
 hideDate: true
 title: ""  
 ---
