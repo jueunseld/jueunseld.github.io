@@ -15,6 +15,7 @@ Vernissage ist am 30. August (16:00 Uhr), Finissage am 28. September.
 <figure>
     <img src="{{ site.baseurl }}images/schoepflin1.jpeg" alt="Schöpflin 1" itemprop="image"/>
 </figure>
+<br>
 <figure>
     <img src="{{ site.baseurl }}images/schoepflin2.jpeg" alt="Schöpflin 2" itemprop="image"/>
 </figure>
