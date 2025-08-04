@@ -5,7 +5,7 @@ hideDate: true
 title: ""  
 ---
 
-Mit großer Freude kann ich ankündigen, dass <data hidden itemprop="name">Albert Scopin Schöpflin</data> in meiner Galerie im Zwetschgenweg zu sehen sein wird. 
+Mit großer Freude kann ich ankündigen, dass <data itemprop="name">Albert Scopin Schöpflin</data> in meiner Galerie im Zwetschgenweg zu sehen sein wird. 
 
 Vernissage ist am 30. August (16:00 Uhr), Finissage am 28. September.
 
