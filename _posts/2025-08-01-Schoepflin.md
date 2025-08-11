@@ -13,6 +13,10 @@ Vernissage ist am 30. August (16:00 Uhr), Finissage am 28. September.
 
 <br>
 <figure>
+    <img src="{{ site.baseurl }}images/Einladung Albert Scopin GALERIE im ZWETSCHGENWEG.jpg" alt="Schöpflin Einladung" itemprop="image"/>
+</figure>
+<br>
+<figure>
     <img src="{{ site.baseurl }}images/schoepflin1.jpeg" alt="Schöpflin 1" itemprop="image"/>
 </figure>
 <br>
