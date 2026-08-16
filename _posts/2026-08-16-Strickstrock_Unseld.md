@@ -4,7 +4,8 @@ published: true
 hideDate: true
 title: ""  
 ---
-<div style="min-height: 638px; box-sizing: border-box; padding: 48px 0 40px 80px; font-family: Arial, Helvetica, sans-serif; color: #111; background: #fff;">
+
+<div style="min-height: 638px; box-sizing: border-box; padding: 20px; font-family: Arial, Helvetica, sans-serif; color: #111; background: #fff;">
 
     <div style="min-height: 548px; box-sizing: border-box;">
 
@@ -40,18 +41,16 @@ title: ""
         </div>
 
 
-            <div>
-                Galerie im Zwetschgenweg · Jürgen Unseld<br>
-                Zwetschgenweg 5 · 79539 Lörrach-Tüllingen<br><br>
-                Tel. 07621 10831 · zw.art@t-online.de<br>
-                Instagram: @j.unseld · juergenunseld.de
-            </div>
+        <div>
+            Galerie im Zwetschgenweg · Jürgen Unseld<br>
+            Zwetschgenweg 5 · 79539 Lörrach-Tüllingen<br><br>
+            Tel. 07621 10831 · zw.art@t-online.de<br>
+            Instagram: @j.unseld · juergenunseld.de
+        </div>
 
-            <div style="text-align: end; font-size: 16px;">
-                <div style="font-size: 12px;">Instagram: @MINKA_STRICKSTROCK</div>
-                <div style="margin-top: 6px;">strickstrock.org</div>
-            </div>
-
+        <div style="text-align: end; font-size: 16px;">
+            <div style="font-size: 12px;">Instagram: @MINKA_STRICKSTROCK</div>
+            <div style="margin-top: 6px;">strickstrock.org</div>
         </div>
 
     </div>
