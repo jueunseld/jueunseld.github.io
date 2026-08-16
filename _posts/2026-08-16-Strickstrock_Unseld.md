@@ -48,8 +48,8 @@ title: ""
             Instagram: @j.unseld · juergenunseld.de
         </div>
 
-        <div style="text-align: end; font-size: 16px;">
-            <div style="font-size: 12px;">Instagram: @MINKA_STRICKSTROCK</div>
+        <div style="text-align: end;">
+            <div>Instagram: @MINKA_STRICKSTROCK</div>
             <div style="margin-top: 6px;">strickstrock.org</div>
         </div>
 
