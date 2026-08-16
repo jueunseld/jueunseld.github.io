@@ -50,7 +50,7 @@ title: ""
 
         <div style="text-align: end;">
             <div>Instagram: @MINKA_STRICKSTROCK</div>
-            <div style="margin-top: 6px;">strickstrock.org</div>
+            <div>strickstrock.org</div>
         </div>
 
     </div>
